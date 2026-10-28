@@ -1,0 +1,26 @@
+# Phase 1-3: data, parsing, analysis
+requests
+beautifulsoup4
+lxml
+pandas
+pyarrow
+numpy
+matplotlib
+tqdm
+jupyterlab
+ipykernel
+# Phase 4-6: baselines, deep learning, evaluation
+scikit-learn
+transformers
+tensorboard
+captum
+# Phase 7: precedent search
+rank-bm25
+sentence-transformers
+faiss-cpu
+# Phase 8+: tests and serving
+pytest
+python-dotenv
+fastapi
+uvicorn
+# Phase 9 (installed later, the LangChain ecosystem moves fast): langchain langgraph langsmith

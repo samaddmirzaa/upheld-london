@@ -1,0 +1,14 @@
+# Data and models stay local (the report text has no reuse licence)
+data/
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
+models/
+runs/
+# Secrets
+.env
+# Python, Jupyter, PyCharm
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.idea/
